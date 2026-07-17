@@ -669,68 +669,68 @@ ACHIEVEMENTS = [
 # ══════════════════════════════════════════════════════════════════════════════
 # SIDEBAR — Control Panel
 # ══════════════════════════════════════════════════════════════════════════════
-with st.sidebar:
-    sport  = st.session_state.sport_choice
-    diff   = st.session_state.difficulty
-    count  = st.session_state.quizzes_generated
-    streak = min(count, 7)
+# with st.sidebar:
+#     sport  = st.session_state.sport_choice
+#     diff   = st.session_state.difficulty
+#     count  = st.session_state.quizzes_generated
+#     streak = min(count, 7)
 
-    st.markdown(f"""
-    <div class="sb-avatar">👤</div>
-    <div class="sb-username">Sports Fan</div>
-    <div class="sb-rank">{'🏆 Legend' if count >= 15 else '🥇 Champion' if count >= 7 else '🥈 Challenger' if count >= 3 else '🏅 Rookie'}</div>
-    <div class="sb-stat-row">
-      <div class="sb-stat">
-        <div class="sb-stat-val">{count}</div>
-        <div class="sb-stat-lbl">Quizzes</div>
-      </div>
-      <div class="sb-stat">
-        <div class="sb-stat-val">{streak}</div>
-        <div class="sb-stat-lbl">Streak</div>
-      </div>
-      <div class="sb-stat">
-        <div class="sb-stat-val">{count * 10}</div>
-        <div class="sb-stat-lbl">XP</div>
-      </div>
-    </div>
-    """, unsafe_allow_html=True)
+#     st.markdown(f"""
+#     <div class="sb-avatar">👤</div>
+#     <div class="sb-username">Sports Fan</div>
+#     <div class="sb-rank">{'🏆 Legend' if count >= 15 else '🥇 Champion' if count >= 7 else '🥈 Challenger' if count >= 3 else '🏅 Rookie'}</div>
+#     <div class="sb-stat-row">
+#       <div class="sb-stat">
+#         <div class="sb-stat-val">{count}</div>
+#         <div class="sb-stat-lbl">Quizzes</div>
+#       </div>
+#       <div class="sb-stat">
+#         <div class="sb-stat-val">{streak}</div>
+#         <div class="sb-stat-lbl">Streak</div>
+#       </div>
+#       <div class="sb-stat">
+#         <div class="sb-stat-val">{count * 10}</div>
+#         <div class="sb-stat-lbl">XP</div>
+#       </div>
+#     </div>
+#     """, unsafe_allow_html=True)
 
-    if streak > 0:
-        st.markdown(f'<div class="sb-streak">🔥 {streak}-Quiz Streak — Keep it up!</div>', unsafe_allow_html=True)
+#     if streak > 0:
+#         st.markdown(f'<div class="sb-streak">🔥 {streak}-Quiz Streak — Keep it up!</div>', unsafe_allow_html=True)
 
-    st.markdown('<div class="sb-divider"></div>', unsafe_allow_html=True)
+#     st.markdown('<div class="sb-divider"></div>', unsafe_allow_html=True)
 
-    st.markdown('<div class="sb-label">Active Config</div>', unsafe_allow_html=True)
-    emoji = SPORT_EMOJI.get(sport, "🏆")
-    diff_color = {"Easy": "#22c55e", "Medium": "#f97316", "Hard": "#ef4444"}.get(diff, "#fff")
-    st.markdown(f"""
-    <div style="background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);
-                border-radius:10px;padding:14px;font-size:13px;margin-bottom:12px;">
-      <div style="margin-bottom:8px;">{emoji} <strong style="color:#f0f4ff">{sport}</strong></div>
-      <div>⚡ Difficulty: <strong style="color:{diff_color}">{diff}</strong></div>
-    </div>
-    """, unsafe_allow_html=True)
+#     st.markdown('<div class="sb-label">Active Config</div>', unsafe_allow_html=True)
+#     emoji = SPORT_EMOJI.get(sport, "🏆")
+#     diff_color = {"Easy": "#22c55e", "Medium": "#f97316", "Hard": "#ef4444"}.get(diff, "#fff")
+#     st.markdown(f"""
+#     <div style="background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);
+#                 border-radius:10px;padding:14px;font-size:13px;margin-bottom:12px;">
+#       <div style="margin-bottom:8px;">{emoji} <strong style="color:#f0f4ff">{sport}</strong></div>
+#       <div>⚡ Difficulty: <strong style="color:{diff_color}">{diff}</strong></div>
+#     </div>
+#     """, unsafe_allow_html=True)
 
-    st.markdown('<div class="sb-label">Daily Challenge</div>', unsafe_allow_html=True)
-    st.markdown("""
-    <div style="background:rgba(0,212,255,0.07);border:1px solid rgba(0,212,255,0.2);
-                border-radius:10px;padding:12px;font-size:12px;color:#8892aa;margin-bottom:16px;">
-      🎲 <strong style="color:#f0f4ff">Random Sport Quiz</strong><br>
-      <span style="font-size:10px;">Resets in 08:42:17</span>
-    </div>
-    """, unsafe_allow_html=True)
+#     st.markdown('<div class="sb-label">Daily Challenge</div>', unsafe_allow_html=True)
+#     st.markdown("""
+#     <div style="background:rgba(0,212,255,0.07);border:1px solid rgba(0,212,255,0.2);
+#                 border-radius:10px;padding:12px;font-size:12px;color:#8892aa;margin-bottom:16px;">
+#       🎲 <strong style="color:#f0f4ff">Random Sport Quiz</strong><br>
+#       <span style="font-size:10px;">Resets in 08:42:17</span>
+#     </div>
+#     """, unsafe_allow_html=True)
 
-    history = st.session_state.quiz_history[-5:][::-1]
-    if history:
-        st.markdown('<div class="sb-label">Recent Quizzes</div>', unsafe_allow_html=True)
-        for h in history:
-            emj = SPORT_EMOJI.get(h["sport"], "🏆")
-            st.markdown(f"""
-            <div class="sb-history-item">
-              <div class="sb-history-dot"></div>
-              <div>{emj} {h["sport"]} · {h["diff"]}</div>
-            </div>
-            """, unsafe_allow_html=True)
+#     history = st.session_state.quiz_history[-5:][::-1]
+#     if history:
+#         st.markdown('<div class="sb-label">Recent Quizzes</div>', unsafe_allow_html=True)
+#         for h in history:
+#             emj = SPORT_EMOJI.get(h["sport"], "🏆")
+#             st.markdown(f"""
+#             <div class="sb-history-item">
+#               <div class="sb-history-dot"></div>
+#               <div>{emj} {h["sport"]} · {h["diff"]}</div>
+#             </div>
+#             """, unsafe_allow_html=True)
 
 
 # ══════════════════════════════════════════════════════════════════════════════

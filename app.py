@@ -749,8 +749,8 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-chips = "".join(f'<div class="trending-chip">{t}</div>' for t in TRENDING)
-st.markdown(f'<div class="trending-bar">{chips}</div>', unsafe_allow_html=True)
+# chips = "".join(f'<div class="trending-chip">{t}</div>' for t in TRENDING)
+# st.markdown(f'<div class="trending-bar">{chips}</div>', unsafe_allow_html=True)
 
 
 # ══════════════════════════════════════════════════════════════════════════════

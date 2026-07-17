@@ -1,0 +1,602 @@
+[
+    {
+        "sport": "Cricket",
+        "fact": "The first official Test cricket match was played in 1877 between Australia and England at the Melbourne Cricket Ground."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "Sachin Tendulkar is the highest run scorer in international cricket with over 34,000 runs across all formats."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "A cricket Test match can last up to five days, making it one of the longest team sport events in the world."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "The Ashes is a biennial Test cricket series played between England and Australia, dating back to 1882."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "The highest individual Test score is 400 not out, scored by Brian Lara of the West Indies against England in 2004."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "A cricket ball weighs between 155.9 and 163 grams and is made of a cork core wound with string and covered in leather."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "The ICC Cricket World Cup is held every four years, with the first edition won by West Indies in 1975."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "Muttiah Muralitharan holds the record for the most wickets in Test cricket with 800 wickets."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "India won the ICC T20 World Cup 2024, defeating South Africa in the final held in Barbados."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "The Duckworth-Lewis-Stern method is a mathematical formula used to set revised targets in rain-affected limited-overs matches."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "The term 'hat-trick' originated in cricket, referring to a bowler taking three wickets on three consecutive deliveries."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "The Indian Premier League (IPL), founded in 2008, is the most valuable cricket league in the world."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "A cricket pitch is 22 yards (20.12 metres) long, a unit of measurement historically called a 'chain'."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "Rohit Sharma became the first player to score five centuries in a single Cricket World Cup edition in 2019."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "The third umpire system, using television replays to adjudicate decisions, was first introduced in Test cricket in 1992."
+    },
+    {
+        "sport": "Football",
+        "fact": "The first FIFA World Cup was held in Uruguay in 1930, with the host nation winning the inaugural tournament."
+    },
+    {
+        "sport": "Football",
+        "fact": "Lionel Messi won the FIFA World Cup with Argentina in 2022, completing his collection of every major football honour."
+    },
+    {
+        "sport": "Football",
+        "fact": "The offside rule in football states that a player is offside if they are closer to the opponent's goal line than both the ball and the second-to-last defender."
+    },
+    {
+        "sport": "Football",
+        "fact": "Brazil has won the most FIFA World Cup titles, claiming the trophy five times: 1958, 1962, 1970, 1994, and 2002."
+    },
+    {
+        "sport": "Football",
+        "fact": "Cristiano Ronaldo became the first player to score at five FIFA World Cups, achieving the feat in 2022."
+    },
+    {
+        "sport": "Football",
+        "fact": "The penalty shootout was introduced at international level at the 1976 UEFA European Championship."
+    },
+    {
+        "sport": "Football",
+        "fact": "The UEFA Champions League, originally known as the European Cup, was first held in the 1955-56 season."
+    },
+    {
+        "sport": "Football",
+        "fact": "Real Madrid holds the record for the most UEFA Champions League titles with 15 trophies as of 2024."
+    },
+    {
+        "sport": "Football",
+        "fact": "The fastest goal in professional football history was scored by Nawaf Al-Abed in approximately 2.4 seconds."
+    },
+    {
+        "sport": "Football",
+        "fact": "A standard football match consists of two 45-minute halves with additional injury time added at the referee's discretion."
+    },
+    {
+        "sport": "Football",
+        "fact": "Pelé scored 1,279 goals in 1,363 official and unofficial games, making him one of the most prolific scorers in history."
+    },
+    {
+        "sport": "Football",
+        "fact": "The VAR (Video Assistant Referee) system was officially adopted by FIFA for the 2018 World Cup in Russia."
+    },
+    {
+        "sport": "Football",
+        "fact": "The football used in professional matches must have a circumference of 68–70 cm and weigh 410–450 grams."
+    },
+    {
+        "sport": "Football",
+        "fact": "Vinicius Jr. won the 2024 Ballon d'Or, becoming the first Brazilian to win the award since Ronaldo in 1997."
+    },
+    {
+        "sport": "Football",
+        "fact": "The first ever international football match was played between Scotland and England in 1872, ending in a 0-0 draw."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "India won the Thomas Cup for the first time in 2022, defeating 14-time champions Indonesia in the final."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "The shuttlecock can travel over 400 km/h during professional matches, making badminton the fastest racket sport."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "Badminton became an Olympic sport at the 1992 Barcelona Games, with four events contested."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "The Thomas Cup (men's) and Uber Cup (women's) are the most prestigious team events in badminton, held every two years."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "Lin Dan of China is the only player to win the Olympic gold medal, World Championship, and All England Open in the same year (2012)."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "A standard badminton shuttlecock has 16 feathers, traditionally made from the feathers of the left wing of a goose."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "The BWF World Championships have been held since 1977, with China dominating the event over the decades."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "PV Sindhu became the first Indian to win two Olympic medals in badminton, claiming silver in 2016 and bronze in 2020."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "Badminton is played with a net that is 1.55 metres high at the edges and 1.524 metres high at the centre."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "Viktor Axelsen of Denmark won consecutive men's singles gold medals at the 2020 Tokyo and 2024 Paris Olympics."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "The sport is named after Badminton House in Gloucestershire, England, where it was popularised by the Duke of Beaufort in the 1870s."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "A badminton court measures 13.4 metres in length and 6.1 metres in width for doubles play."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "The All England Open Badminton Championships, first held in 1899, is the oldest badminton tournament in the world."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "Tai Tzu-ying of Chinese Taipei held the BWF women's singles world number one ranking for a record 207 consecutive weeks."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "Modern badminton matches use rally-point scoring up to 21 points per game, a system adopted by the BWF in 2006."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "Wimbledon, first held in 1877, is the oldest tennis tournament in the world and the only Grand Slam played on grass."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "Novak Djokovic holds the record for the most Grand Slam singles titles with 24, surpassing Serena Williams and Rafael Nadal."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "The fastest serve ever recorded was by John Isner at 253 km/h (157.2 mph) at the 2016 Davis Cup."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "The four Grand Slam tournaments are the Australian Open, French Open, Wimbledon, and the US Open."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "Rafael Nadal won the French Open a record 14 times, earning him the nickname 'King of Clay'."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "Tennis was one of the original sports at the modern Olympic Games in 1896, was later dropped, and was reinstated in 1988."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "Serena Williams won 23 Grand Slam singles titles, the most by any player in the Open Era."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "The longest match in tennis history was the Isner-Mahut match at Wimbledon 2010, lasting 11 hours and 5 minutes over three days."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "The term 'love' for zero in tennis is believed to derive from the French word 'l'oeuf', meaning egg, representing a zero."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "Carlos Alcaraz won consecutive Wimbledon titles in 2023 and 2024, becoming the youngest back-to-back Wimbledon champion."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "A standard tennis court is 23.77 metres long and 8.23 metres wide for singles, extending to 10.97 metres for doubles."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "The Davis Cup, founded in 1900, is the premier international team event in men's tennis."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "Players must win six games to win a set in tennis, with a tiebreak typically used when the score reaches 6-6."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "Jannik Sinner of Italy won the 2024 Australian Open and US Open, ending the year as the world number one."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "The yellow tennis ball was officially introduced at Wimbledon in 1986 to improve visibility for television audiences."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "Basketball was invented by Canadian-American physical education instructor Dr. James Naismith in December 1891 in Springfield, Massachusetts."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "The NBA was founded on June 6, 1946, as the Basketball Association of America before merging with the NBL in 1949."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "Michael Jordan won six NBA championships with the Chicago Bulls and is widely regarded as the greatest basketball player of all time."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "The three-point line was introduced in the NBA in the 1979-80 season, adding a new strategic dimension to the game."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "Wilt Chamberlain scored 100 points in a single NBA game on March 2, 1962, a record that still stands today."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "Basketball became an Olympic sport for men in 1936 at the Berlin Games, with women's basketball added in 1976."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "LeBron James became the NBA's all-time leading scorer in February 2023, surpassing Kareem Abdul-Jabbar's record of 38,387 points."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "The original basketball hoops were actual peach baskets with closed bottoms, requiring manual retrieval after each score."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "The shot clock was introduced in the NBA in 1954 to prevent teams from stalling by requiring a shot attempt within 24 seconds."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "The Boston Celtics hold the record for the most NBA championships, winning their 18th title in 2024."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "A standard NBA basketball court is 28.65 metres long and 15.24 metres wide, with a basket height of 3.05 metres."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "Stephen Curry holds the record for the most three-pointers made in NBA history, surpassing 3,700 by the 2024-25 season."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "The FIBA Basketball World Cup is held every four years, with the USA winning the most titles."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "Nikola Jokić won three NBA MVP awards (2021, 2022, 2024), making him one of the most decorated players of his era."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "The first basketball game used a soccer ball; the distinctive brown leather basketball wasn't introduced until 1929."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "Field hockey is one of the oldest team sports in the world, with origins tracing back to ancient Egypt, Greece, and Persia."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "India is the most successful nation in Olympic field hockey history, winning eight gold medals between 1928 and 1980."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "The NHL (National Hockey League) was founded in 1917 and is the premier professional ice hockey league in the world."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "Wayne Gretzky, known as 'The Great One', scored 894 goals and 2,857 points in his NHL career, records that remain unbroken."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "Field hockey became an Olympic sport for men in 1908 and for women in 1980."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "The Stanley Cup, first awarded in 1893, is the oldest professional sports trophy in North America."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "A standard field hockey pitch is 91.4 metres long and 55 metres wide, made of water-based or sand-based artificial turf at elite levels."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "The hockey puck used in the NHL is made of vulcanized rubber, weighs 170 grams, and is frozen before games to reduce bouncing."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "The FIH Hockey World Cup is held every four years, with the Netherlands winning the most titles in both men's and women's events."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "India won the FIH Hockey Men's World Cup in 1975, their only World Cup title to date."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "Connor McDavid of the Edmonton Oilers is widely considered the best ice hockey player in the world in the 2020s."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "The penalty corner, or short corner, is a key set-piece in field hockey awarded for defensive fouls inside the circle."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "Germany won the FIH Men's Hockey World Cup 2023, defeating Belgium in the final held in Bhubaneswar and Rourkela, India."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "Ice hockey was invented in Canada in the 19th century, with the first indoor game played in Montreal in 1875."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "The fastest slap shot in NHL history was recorded by Zdeno Chara at 175.1 km/h during the 2012 NHL All-Star Skills Competition."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "The first Formula 1 World Championship season was held in 1950, with Giuseppe Farina of Italy winning the inaugural title."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "Michael Schumacher and Lewis Hamilton share the record for the most Formula 1 World Drivers' Championship titles with seven each."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "Formula 1 cars can accelerate from 0 to 100 km/h in approximately 2.4 seconds and reach top speeds exceeding 370 km/h."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "The Monaco Grand Prix, first held in 1929, is the most prestigious race on the Formula 1 calendar."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "Ayrton Senna won three Formula 1 World Championships (1988, 1990, 1991) and is regarded as one of the greatest drivers in history."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "A Formula 1 tyre can last as few as 10 laps at circuits like Monaco, where track surface and cornering forces cause rapid degradation."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "Max Verstappen won four consecutive Formula 1 World Drivers' Championship titles from 2021 to 2024."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "The Drag Reduction System (DRS) was introduced in 2011 to allow drivers to reduce aerodynamic drag and facilitate overtaking."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "The constructors' championship, awarded to the team, was introduced in 1958. Ferrari holds the record for the most constructors' titles."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "A Formula 1 steering wheel costs approximately $50,000 to $100,000 and contains over 20 buttons, switches, and dials."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "The Safety Car was introduced to Formula 1 in 1993 to neutralise races when track hazards require controlled conditions."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "The Monza circuit in Italy, known as the 'Temple of Speed', is the fastest circuit on the Formula 1 calendar."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "Lando Norris claimed his first Formula 1 race victory at the 2024 Miami Grand Prix, ending a long wait for McLaren."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "Formula 1 introduced hybrid power units in 2014, combining a turbocharged V6 internal combustion engine with energy recovery systems."
+    },
+    {
+        "sport": "Formula 1",
+        "fact": "The pit stop world record for a Formula 1 tyre change stands at 1.80 seconds, set by Red Bull Racing in 2023."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "Volleyball was invented by William G. Morgan in 1895 in Holyoke, Massachusetts, originally called 'Mintonette'."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "Volleyball became an Olympic sport at the 1964 Tokyo Games, with beach volleyball added at the 1996 Atlanta Games."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "A volleyball match is played as a best-of-five sets, with each set won by the first team to reach 25 points (15 in the fifth)."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "Brazil is the most successful nation in Olympic volleyball history, winning multiple gold medals in both indoor and beach formats."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "The libero position was introduced to volleyball in 1998, allowing a defensive specialist to replace any back-row player without counting as a substitution."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "The fastest spike in professional volleyball was recorded at approximately 132 km/h by Brazilian player Gustavo 'Giba' Endres."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "The FIVB Volleyball World Championship has been held since 1949 for men and 1952 for women."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "A standard volleyball court is 18 metres long and 9 metres wide, divided by a net set at 2.43 metres for men and 2.24 metres for women."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "Italy won the FIVB Men's Volleyball World Championship in 2022, defeating Poland in the final."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "The rally point scoring system was officially adopted in 1999, replacing the side-out scoring system to speed up matches."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "Poland's Bartosz Kurek is widely regarded as one of the best outside hitters in men's volleyball in the 2020s."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "The Nations League, launched in 2018 by the FIVB, replaced the old World League and World Grand Prix as the premier annual team competition."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "A volleyball must have a circumference of 65-67 cm and weigh between 260 and 280 grams."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "The USA men's volleyball team won gold at the 2024 Paris Olympics, their second Olympic title."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "The jump serve, introduced in the 1980s, revolutionised the game by combining power and spin to make the ball difficult to receive."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "Boxing is one of the oldest sports in history, with evidence of organised fighting in ancient Greece dating back to 688 BC."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "The Marquess of Queensberry Rules, published in 1867, form the basis of modern boxing, introducing gloves, three-minute rounds, and a ten-second count."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "Muhammad Ali, born Cassius Clay, is widely regarded as the greatest boxer of all time, winning the heavyweight title three times."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "Boxing has been part of the modern Olympic Games since 1904, with women's boxing added in 2012."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "Mike Tyson became the youngest heavyweight champion in history in 1986, at 20 years and 4 months old."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "There are four major world boxing organisations: the WBA, WBC, IBF, and WBO, each crowning their own world champions."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "Floyd Mayweather Jr. retired with a perfect professional record of 50-0, winning world titles in five weight divisions."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "The longest heavyweight title fight in history lasted 110 rounds between Andy Bowen and Jack Burke in 1893, declared a no-contest."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "Professional boxing gloves range from 8 oz to 10 oz for competition, while training gloves can weigh up to 16 oz or more."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "Oleksandr Usyk became the undisputed heavyweight champion in 2024, defeating Tyson Fury by split decision."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "Manny Pacquiao is the only boxer in history to have won world titles in eight different weight divisions."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "The term 'round' in boxing originates from early bare-knuckle fights where a round ended when a fighter was knocked down."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "Claressa Shields became the first American boxer to win back-to-back Olympic gold medals in 2012 and 2016."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "The split-second reaction time of elite boxers is approximately 0.2 seconds, far faster than the average person."
+    },
+    {
+        "sport": "Boxing",
+        "fact": "Joe Louis held the world heavyweight championship for a record 11 years and 8 months, with 25 successful title defences."
+    },
+    {
+        "sport": "Chess",
+        "fact": "Chess is believed to have originated in India during the Gupta Empire around the 6th century AD, where it was called Chaturanga."
+    },
+    {
+        "sport": "Chess",
+        "fact": "Garry Kasparov became the youngest undisputed World Chess Champion in 1985 at the age of 22."
+    },
+    {
+        "sport": "Chess",
+        "fact": "The number of possible unique chess games is estimated to exceed 10^120, a figure known as the Shannon Number."
+    },
+    {
+        "sport": "Chess",
+        "fact": "Magnus Carlsen of Norway became World Chess Champion in 2013 and held the title until 2023 when he chose not to defend it."
+    },
+    {
+        "sport": "Chess",
+        "fact": "Deep Blue, a supercomputer developed by IBM, defeated Garry Kasparov in a historic match in 1997, marking the first time a computer beat a reigning world champion."
+    },
+    {
+        "sport": "Chess",
+        "fact": "FIDE, the International Chess Federation, was founded in Paris in 1924 and governs international chess competitions."
+    },
+    {
+        "sport": "Chess",
+        "fact": "The Elo rating system, used to rank chess players, was developed by physicist Arpad Elo and introduced by FIDE in 1970."
+    },
+    {
+        "sport": "Chess",
+        "fact": "The longest chess game theoretically possible is 5,949 moves, based on the 75-move rule introduced in 2014."
+    },
+    {
+        "sport": "Chess",
+        "fact": "Viswanathan Anand became the first Asian player to be recognised as World Chess Champion by FIDE, holding the title from 2007 to 2013."
+    },
+    {
+        "sport": "Chess",
+        "fact": "The FIDE Chess World Cup 2023 was won by Magnus Carlsen, who also won the Candidates Tournament in 2024."
+    },
+    {
+        "sport": "Chess",
+        "fact": "The en passant rule allows a pawn to capture an adjacent enemy pawn that has just advanced two squares, as if it had only moved one square."
+    },
+    {
+        "sport": "Chess",
+        "fact": "Netflix's 'The Queen's Gambit' (2020) sparked a massive global surge in chess popularity, leading to record sign-ups on Chess.com."
+    },
+    {
+        "sport": "Chess",
+        "fact": "Chess has been played in space: cosmonauts on the Soviet Soyuz 9 played a radio game against a ground team in 1970."
+    },
+    {
+        "sport": "Chess",
+        "fact": "D Gukesh became the youngest ever World Chess Champion in December 2024, defeating Ding Liren of China at age 18."
+    },
+    {
+        "sport": "Chess",
+        "fact": "The shortest possible checkmate in chess is 'Fool's Mate', achievable in just two moves by Black against a poorly played White."
+    }
+]

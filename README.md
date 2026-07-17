@@ -141,7 +141,7 @@ This implementation builds upon the baseline architecture with several key impro
 
 ## 📸 Demo & Links
 
-* 🌐 **Live Application:** *[Add deployed Streamlit link here]*
+* 🌐 **Live Application: *https://sports-quiz-agent.streamlit.app*
 * 🎥 **Screen Recording / Walkthrough:** *[Add Google Drive link here]*
 
 ---

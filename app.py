@@ -658,12 +658,12 @@ LOADING_MSGS = [
     "✨  Almost ready — hold tight...",
 ]
 
-ACHIEVEMENTS = [
-    ("🏅", "Rookie",     1),
-    ("🥈", "Challenger", 3),
-    ("🥇", "Champion",   7),
-    ("🏆", "Legend",     15),
-]
+# ACHIEVEMENTS = [
+#     ("🏅", "Rookie",     1),
+#     ("🥈", "Challenger", 3),
+#     ("🥇", "Champion",   7),
+#     ("🏆", "Legend",     15),
+# ]
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -917,17 +917,17 @@ if st.session_state.quiz_output:
             st.session_state.quiz_context = None
             st.rerun()
 
-    st.markdown("<br>", unsafe_allow_html=True)
-    st.markdown('<div class="section-label">Achievements</div>', unsafe_allow_html=True)
-    badges_html = '<div class="badge-row">'
-    for icon, name, threshold in ACHIEVEMENTS:
-        unlocked = count >= threshold
-        cls = "unlocked" if unlocked else ""
-        badges_html += f'<div class="badge {cls}">{icon} {name}</div>'
-    badges_html += "</div>"
-    st.markdown(badges_html, unsafe_allow_html=True)
+    # st.markdown("<br>", unsafe_allow_html=True)
+    # st.markdown('<div class="section-label">Achievements</div>', unsafe_allow_html=True)
+    # badges_html = '<div class="badge-row">'
+    # for icon, name, threshold in ACHIEVEMENTS:
+    #     unlocked = count >= threshold
+    #     cls = "unlocked" if unlocked else ""
+    #     badges_html += f'<div class="badge {cls}">{icon} {name}</div>'
+    # badges_html += "</div>"
+    # st.markdown(badges_html, unsafe_allow_html=True)
 
-    st.markdown("<br>", unsafe_allow_html=True)
+    # st.markdown("<br>", unsafe_allow_html=True)
     with st.expander("🔮  AI Knowledge Sources — Expand to inspect context", expanded=False):
         st.markdown(f"""
         <div class="insights-card">

@@ -36,7 +36,7 @@ def compile_quiz_data(sport, difficulty):
     )
 
     user_prompt = (
-        f"Generate exactly 3 unique multiple-choice questions for the sport: {sport}.\n"
+        f"Generate 4 to 5 unique multiple-choice questions for the sport: {sport}.\n"
         f"Difficulty target: {difficulty}.\n\n"
         "Format each question exactly as follows so my program can parse it:\n"
         "Question: [Question text here]\n"

@@ -39,7 +39,7 @@ def compile_quiz_data(sport, difficulty):
         f"Generate 4 to 5 unique multiple-choice questions for the sport: {sport}.\n"
         f"Difficulty target: {difficulty}.\n\n"
         "Format each question exactly as follows so my program can parse it:\n"
-        "Question: [Question text here]\n"
+        "Question Number: [Question text here]\n"
         "A) [Option A]\n"
         "B) [Option B]\n"
         "C) [Option C]\n"
